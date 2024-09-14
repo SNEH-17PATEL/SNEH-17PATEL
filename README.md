@@ -1,10 +1,10 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-<h1 align="center">Hi 👋, I'm <b>Sneh Patel</b></h1>
+<h1 align="center">Hi 👋, I'm Sneh Patel</h1>
 <h3 align="center">A passionate tech student from India</h3>
 
 
 # 💫 About Me:
-🔭 I’m currently working on DSA and Web Development<br>👯 I’m looking to collaborate on Web Development Projects<br>🤝 I’m looking for help with Web Development Projects<br>🌱 I’m currently learning Javascript and its Liberaries<br>💬 Ask me about my Projects<br>⚡ Fun fact - <b>I'm old school</b>
+<br>🔭 I’m currently working on DSA and Web Development<br><br>👯 I’m looking to collaborate on Web Development Projects<br><br>🤝 I’m looking for help with Web Development Projects<br><br>🌱 I’m currently learning Javascript and its Liberaries<br><br>💬 Ask me about my Projects<br><br>⚡ Fun fact - <b>I'm old school</b><br>
 
 
 
