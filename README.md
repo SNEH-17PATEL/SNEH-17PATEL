@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://cdn.dribbble.com/users/1141571/screenshots/3978167/media/9158ec04be824e5c95f076fafb556273.gif))]
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://cdn.dribbble.com/users/1141571/screenshots/3978167/media/9158ec04be824e5c95f076fafb556273.gif)]
 <h1 align="center">Hi 👋, I'm Sneh Patel</h1>
 <h3 align="center">A passionate tech student from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
