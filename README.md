@@ -27,9 +27,6 @@ You can click the Preview link to take a look at your changes.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SNEH-17PATEL&limit=5&theme=algolia&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=SNEH-17PATEL&icon=5&color=1)](https://visitcount.itsvg.in)
 
