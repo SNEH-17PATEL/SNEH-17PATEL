@@ -1,15 +1,9 @@
-<!---- 👋 Hi, I’m @SNEH-17PATEL
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...--->
+[![MasterHead](https://cdn.dribbble.com/users/1141571/screenshots/3978167/media/9158ec04be824e5c95f076fafb556273.gif)]
+<h1 align="center">Hi 👋, I'm Sneh Patel</h1>
+<h3 align="center">A passionate tech student from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
-<!---
-SNEH-17PATEL/SNEH-17PATEL is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 # 💫 About Me:
 🔭 I’m currently working on DSA and Web Development<br>👯 I’m looking to collaborate on Web Development Projects<br>🤝 I’m looking for help with Web Development Projects<br>🌱 I’m currently learning Javascript and its Liberaries<br>💬 Ask me about my Projects<br>⚡ Fun fact - I can solve Rubik's Cube under 80 seconds
 
