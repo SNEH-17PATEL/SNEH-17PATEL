@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-<br>🔭 I’m currently working on DSA and Web Development<br><br>👯 I’m looking to collaborate on Web Development Projects<br><br>🤝 I’m looking for help with Web Development Projects<br><br>🌱 I’m currently learning Javascript and its Liberaries<br><br>💬 Ask me about my Projects<br><br>⚡ Fun fact - <b>I'm old school</b><br>
+🔭 I’m currently working on DSA and Web Development<br><br>👯 I’m looking to collaborate on Web Development Projects<br><br>🤝 I’m looking for help with Web Development Projects<br><br>🌱 I’m currently learning Javascript and its Liberaries<br><br>💬 Ask me about my Projects<br><br>⚡ Fun fact - <b>I'm old school</b><br>
 
 
 
