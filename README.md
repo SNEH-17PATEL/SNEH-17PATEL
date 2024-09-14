@@ -3,10 +3,10 @@
 <h3 align="center">A passionate tech student from India</h3>
 
 
-
 # 💫 About Me:
 🔭 I’m currently working on DSA and Web Development<br>👯 I’m looking to collaborate on Web Development Projects<br>🤝 I’m looking for help with Web Development Projects<br>🌱 I’m currently learning Javascript and its Liberaries<br>💬 Ask me about my Projects<br>⚡ Fun fact - I can solve Rubik's Cube under 80 seconds
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
+<br>
 
 
 # 💻 Tech Stack:
