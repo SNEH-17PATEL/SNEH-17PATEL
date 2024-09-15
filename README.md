@@ -14,11 +14,11 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SNEH-17PATEL&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SNEH-17PATEL&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=algolia)](https://github.com/SNEH-17PATEL/github-readme-stats)<br/>
 <br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SNEH-17PATEL&theme=algolia&hide_border=false)<br/>
 <br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SNEH-17PATEL&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SNEH-17PATEL&theme=algolia&size_weight=0.5&count_weight=0.5&langs_count=20)](https://github.com/SNEH-17PATEL/github-readme-stats)
 <br><br>
 
 # 🏆 GitHub Trophies
