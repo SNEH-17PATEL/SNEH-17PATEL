@@ -17,7 +17,7 @@
 <br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SNEH-17PATEL&theme=algolia&hide_border=false)<br/>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SNEH-17PATEL&theme=algolia&size_weight=0.5&count_weight=0.5&langs_count=20)](https://github.com/SNEH-17PATEL/github-readme-stats)
+
 <br><br>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SNEH-17PATEL&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br><br>
